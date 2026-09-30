@@ -1,35 +1,32 @@
-# 👋 Hi, I'm Cyscarface!
+Hi, I'm Cyscarface
+About Me
 
-![banner](https://github.com/Cyscarface/Cyscarface/assets/your-banner-image) <!-- Replace or remove this line if you want a custom banner or profile image -->
-
-## 💫 About Me
-
-👨‍💻 **Currently Building:**  
+**Currently Building:**  
 Modern web applications with **Laravel**, **React**, and **Tailwind CSS**, focusing on authentication systems, dashboards, and seamless user experiences.
 
-🤝 **Open to Collaborate On:**  
+**Open to Collaborate On:**  
 Open-source projects in **web development**, **data science**, and **distributed systems**—especially those merging robust functionality with clean UI/UX.
 
-🙌 **Looking for Help With:**  
+**Looking for Help With:**  
 Enhancing advanced authentication systems (multi-factor, OTP, security questions) and optimizing **scalable full-stack apps**.
 
-🌱 **Currently Learning:**  
+**Currently Learning:**  
 - Data science (machine learning, data visualization, analytics)  
 - Graphics design with Blender  
 - Advanced system design & distributed computing concepts
 
-💬 **Ask Me About:**  
+**Ask Me About:**  
 - Full-stack development (Laravel + React)  
 - Authentication & security in web apps  
 - Data management and analytics  
 - Getting started with modern frameworks and tools
 
-⚡ **Fun Fact:**  
+**Fun Fact:**  
 I started out as a storekeeper, mastering data organization and problem-solving—skills I now channel into building efficient software systems.
 
 ---
 
-## 🚀 Featured Projects
+ Featured Projects
 
 - [**Thomas**](https://github.com/Cyscarface/Thomas): Laravel-based personal finance manager with real-time analytics and multi-user support.
 - [**secure-auth**](https://github.com/Cyscarface/secure-auth): Robust authentication system featuring MFA, OTP, and advanced security patterns.
@@ -72,15 +69,3 @@ I started out as a storekeeper, mastering data organization and problem-solving�
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Cyscarface&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=Cyscarface&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyscarface&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Cyscarface&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
